@@ -7,7 +7,7 @@
 
 .app {
   height:100%;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?cs=srgb&dl=aerial-architectural-design-architecture-buildings-373912.jpg&fm=jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://raw.githubusercontent.com/adrianhajdin/advice_app/master/src/images/city.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
